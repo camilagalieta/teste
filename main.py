@@ -2,5 +2,5 @@ def print_name():
     print("Camila")
     print("Galieta")
 
-def print_idade():
+def print_age():
     print("25")
